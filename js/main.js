@@ -3,7 +3,7 @@ $(document).ready(function() {
 	console.log('bonjour');
 
 	// Define variables
-	const submitButton = $("input[type='button']");
+	const submitButton = $("input[type='submit']");
 	const designCanvas = $("#pixelCanvas");
 
 	// Submit button
